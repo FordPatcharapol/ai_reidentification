@@ -1,0 +1,11 @@
+.venv
+.vscode
+data
+openvino_notebooks
+ensemble.csv
+ensemble.py
+cosine_openvino.py
+feature_message.json
+iecore.py
+main.py
+test.py

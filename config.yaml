@@ -1,0 +1,5 @@
+model: 
+  device: 'CPU'
+  name: 'person-reidentification-retail-0031'
+  path: 'intel/'
+  type: 'FP16-INT8'
